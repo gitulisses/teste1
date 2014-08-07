@@ -1,1 +1,2 @@
-Frase da linha 1.
+Alteração da linha 1.
+Frase da linha 2.
